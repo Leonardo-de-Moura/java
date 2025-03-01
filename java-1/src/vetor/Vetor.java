@@ -18,9 +18,8 @@ public class Vetor {
 		}
 	};
 	public void show(){
-		System.out.println("vetor: ");
 		for( int i=0; i< length; i++){
 			System.out.println(elements[i] + " ");
 		};
-	};
+	}
 }
